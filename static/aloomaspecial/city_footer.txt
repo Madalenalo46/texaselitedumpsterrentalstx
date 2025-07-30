@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Is it worth renting a dumpster just for leaves?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If you have more than a handful of trees, yes. It will save you hours of bagging and hauling. It's the ultimate weekend-reclaiming tool.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> Is renting a dumpster complicated?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">It's the easiest part of the whole process. You call. We talk about the size of your enemy. We deliver your weapon. You win the war.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What if I fill it up and I’m not done yet?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">This is common in big cleanups. Just call us. We can bring you an empty dumpster and haul the full one away. It's called a swap-out, and we can do it quickly to keep you moving.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is a temporary roll off rental really cheaper than a permanent bin?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If you only have a major cleanout a few times a year, then yes, almost always. You only pay for the dumpster service when you actually need the high capacity.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do we protect our parking lot or loading dock area?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We always recommend you place down sheets of plywood where the dumpster's steel wheels will rest. It’s a simple, professional step that prevents any scuffs or scratches on the pavement.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What’s the easiest way to get started?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Just call us. Stop worrying. Stop guessing. Let's have a two-minute conversation and get you the answers you need.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
